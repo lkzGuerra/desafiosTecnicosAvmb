@@ -1,7 +1,5 @@
 # Começando
 
-## Scripts disponíveis
-
 No diretório do projeto, você pode executar:
 
 ### `npm start`
